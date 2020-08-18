@@ -1,0 +1,10 @@
+Patchnotes:
+Version 0.3 Open Beta
+-Adding Icons
+-Rearrange UI a bit
+-Added warning when entering "hitung" button if there exist at least one blank column
+Version 0.2 Open Beta
+-Adding notes to show how to use the program
+-Modify the font to serif-type to add "Mathematical Nuance"
+Version 0.1 Open Beta
+-Initial Release
