@@ -1,4 +1,7 @@
 Patchnotes:
+Version 0.4 Open Beta
+-Tidying up the code
+-Removing action bar
 Version 0.3 Open Beta
 -Adding Icons
 -Rearrange UI a bit
