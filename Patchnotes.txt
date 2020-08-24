@@ -1,4 +1,10 @@
 Patchnotes:
+Version 1.0
+-Adding custom action bar
+-Tweak the UI
+-Move the version number to action bar
+-Adding border for copyright
+-Adding border for alert
 Version 0.4 Open Beta
 -Tidying up the code
 -Removing action bar
