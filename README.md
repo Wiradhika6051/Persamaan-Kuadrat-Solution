@@ -1,8 +1,8 @@
 # Persamaan-Kuadrat-Solution
-V.1.1\n
-ENG:\n
-Application to find roots of quadratic equation in android\n
-Just download the application\n
-INA:\n
-Aplikasi untuk mencari akar dari persamaan kuadrat pada platform android\n
+V.1.1||
+ENG:
+Application to find roots of quadratic equation in android.
+Just download the application||
+INA:
+Aplikasi untuk mencari akar dari persamaan kuadrat pada platform android.
 Tinggal unduh saja aplikasi ini
