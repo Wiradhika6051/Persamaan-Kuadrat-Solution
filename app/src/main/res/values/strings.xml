@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Persamaan Kuadrat Solution</string>
+    <string name="masukkan_koefisiennya">Masukkan Koefisiennya:</string>
+    <string name="masukkan_koefisien">Masukkan Koefisien:</string>
+    <string name="x2">X2 =</string>
+    <string name="hitung">Hitung</string>
+    <string name="x1">X1 =</string>
+    <string name="_2">2</string>
+    <string name="x">X</string>
+    <string name="tambah1">+</string>
+    <string name="x_kedua">X</string>
+    <string name="tambah2">+</string>
+    <string name="credit">By:Fawwaz A W D</string>
+    <string name="koefisien_a" />
+    <string name="koefisien_b" />
+    <string name="koefisien_c" />
+    <string name="petunjuk"><![CDATA[Petunjuk:\n1.Masukkan koefisien dari fungsi persamaan kuadrat ke kolom yang tersedia.\n2.Tekan tombol\n3.Akar-akarnya akan ditampilkan di kolom x1 dan x2.\n4.Untuk mengosongkan kolom,tekan tombol
+    \n\nNote:Kalo Hasilnya NaN,berarti akarnya gak real(D<0).]]></string>
+    <string name="titik">.</string>
+    <string name="foto">foto</string>
+    <string name="toolbar">Persamaan Kuadrat Solution</string>
+</resources>
