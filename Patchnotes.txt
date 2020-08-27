@@ -1,4 +1,9 @@
 Patchnotes:
+Version 1.1
+-Adding clear button
+-Adding hint to clear coloumn
+-Update version number
+-Cleaning the project
 Version 1.0
 -Adding custom action bar
 -Tweak the UI
